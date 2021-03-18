@@ -7,3 +7,5 @@ Hello my name is David I am a Information Assurance/Security Concentration Major
 [Hackthebox Profile](https://www.hackthebox.eu/profile/181127)
 
 ![codewars](https://www.codewars.com/users/Siinatra/badges/small)
+
+[code wars profile](https://www.codewars.com/users/Siinatra)
