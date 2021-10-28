@@ -2,7 +2,7 @@
 
 Hello my name is David I am a Information Assurance/Security Concentration Major. Even though I major in security I love to code for fun.  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siinatra35)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siinatra35&hide=stars,prs,issues,contribs&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
